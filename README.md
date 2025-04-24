@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there, I’m Melvin! 👋
 
-<!--
-**MelvinXDev/MelvinXDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack Developer | AI & Cloud Enthusiast | Building Future-Ready Projects |
 
-Here are some ideas to get you started:
+I’m currently building my skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: HTML, CSS, JavaScript, React, TailwindCSS
+- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL
+- **DevOps/Cloud**: Docker, Linux, GitHub Actions, Google Cloud, Netlify, Vercel
+- **Future Tech**: AI, Blockchain Basics, Real-time Systems, Solana Dev, Serverless
+
+---
+
+### 🚀 My Goals (2023–2028)
+
+- Build high-quality projects that solve real problems
+- Freelance and earn while learning
+- Contribute to open source
+- Move to Denmark and work in tech
+- Give back to the community—especially through tech education
+
+---
+
+### 📫 Connect With Me
+- GitHub: [github.com/MelvinXDev](https://github.com/MelvinXDev)
+- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
+- Email: melvinlefthanded@gmail.com
+
+---
+
+"The dream is free. The hustle is sold separately." 
+— Melvin
