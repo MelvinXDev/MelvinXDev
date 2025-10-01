@@ -16,7 +16,6 @@ I’m currently building my skills in:
 - Build high-quality projects that solve real problems
 - Freelance and earn while learning
 - Contribute to open source
-- Move to Denmark and work in tech
 - Give back to the community—especially through tech education
 
 ---
