@@ -7,6 +7,7 @@ About Me
 I build scalable web and mobile applications.
 I’m passionate about building software that solves problems
 
+
 Tech & Tools
 
 Frontend / Web: Next.js, React, TailwindCSS, Redux, Chakra UI
@@ -14,6 +15,7 @@ Mobile: React Native, Flutter, Expo
 Backend: Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, GraphQL
 DevOps / Cloud: Docker, Linux, GitHub Actions, Google Cloud Platform, Vercel, Netlify, Serverless
 Learning / Experimenting: AI / Machine Learning, Blockchain, Real-time Systems, Solana Development
+
 
 Current Focus
 
@@ -29,6 +31,7 @@ Building AI-powered tools and blockchain-enabled applications
 
 Featured Projects
 
+
 [BrandMind Psychometric Profiling System] – Web app built with Next.js & TailwindCSS for delivering instant psychometric insights and behavioral profiling. Features include:
 
 Full ASPECTS test integration with randomized item blocks and real-time scoring
@@ -40,6 +43,7 @@ Clean, modular UI aligned with BrandMind’s design language
 Scalable architecture ready for GPT-based interpretation and future WUSCT modules
 
 Data automation & analytics ready for integration with APIs and recommendation engines
+
 
 [Undisclosed Real Estate Start-Up] – A web and mobile app built with Next.js, React, React Native, and Flutter, aimed at transforming how real estate works in West Africa. Features include:
 
