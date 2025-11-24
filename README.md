@@ -5,7 +5,7 @@ Software Engineering student | Fullstack Developer | Mobile & Cloud Enthusiast
 About Me
 
 I build scalable web and mobile applications.
-I’m passionate about building software that solves problems
+I’m passionate about building software that solves problems.
 
 
 Tech & Tools
