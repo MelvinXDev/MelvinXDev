@@ -1,6 +1,6 @@
 Hi, I’m Melvin 👋
 
-Software Engineering student | Fullstack Developer | Mobile & Cloud Enthusiast
+Software Engineering student | Fullstack Developer | 
 
 About Me
 
