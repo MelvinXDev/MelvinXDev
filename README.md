@@ -74,6 +74,14 @@ A full-stack behavioral profiling platform designed to deliver real-time psychom
 
 ---
 
+### Berrylin Properties (berrylinpropertie.com)
+*A high-performance web platform tailored for real estate listings and property management.*
+*   **Architecture:** Modern web framework integration focusing on seamless UI/UX and fast page loads.
+*   **Key Engineering:** Developed responsive, cross-device interfaces for property browsing and optimized the frontend for maximum conversion and accessibility.
+*   **Data Pipeline:** Integrated scalable database solutions to handle dynamic real estate inventories
+
+---
+
 ## 🏢 Ubani - A West African Real Estate Platform *(Stealth Startup)*
 
 A modern property technology ecosystem focused on transforming real estate transactions across West Africa.
@@ -85,14 +93,6 @@ A modern property technology ecosystem focused on transforming real estate trans
 * Real-time workflows and scalable cloud-native infrastructure
 * CI/CD pipelines managed with Docker and GitHub Actions
 * Designed for performance, scalability, and multi-platform deployment
-
-
-~~ Berrylin Properties (berrylinpropertie.com)
-*A high-performance web platform tailored for real estate listings and property management.*
-*   **Architecture:** Modern web framework integration focusing on seamless UI/UX and fast page loads.
-*   **Key Engineering:** Developed responsive, cross-device interfaces for property browsing and optimized the frontend for maximum conversion and accessibility.
-*   **Data Pipeline:** Integrated scalable database solutions to handle dynamic real estate inventories.
-
 ---
 
 # 🏗️ Current Labs & Engineering Focus
