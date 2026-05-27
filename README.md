@@ -1,74 +1,127 @@
-Hi, I’m Melvin 👋
+# Hi, I'm Melvin 👋
 
-Software Engineering student | Fullstack Developer | 
+### Software Engineering Student • Full-Stack Developer • Systems Builder
 
-About Me
+I build scalable, production-ready web applications and digital systems focused on performance, clean architecture, and real-world usability.
 
-I build scalable web and mobile applications.
-I’m passionate about building software that solves problems.
+My interests sit at the intersection of full-stack engineering, AI-powered tooling, cloud infrastructure, and high-performance frontend systems. I enjoy turning complex ideas into fast, functional products that can scale.
+
+* 🎓 B.Sc. in Software Engineering & A.S. in Computer Science
+* 🚀 Currently building AI-powered tools, real-time systems, and serverless applications
+* 🌍 Open to remote internships, engineering roles, and contract MVP builds
+* ⚡ Focused on becoming a world-class software engineer through deep technical foundations and consistent execution
+
+---
+
+# 🧰 Tech Stack
+
+### Frontend Engineering
+
+* Next.js
+* React
+* TailwindCSS
+* Redux
+* Chakra UI
+
+### Mobile Development
+
+* React Native
+* Flutter
+* Expo
+
+### Backend & APIs
+
+* Node.js
+* Express.js
+* PostgreSQL
+* MongoDB
+* REST APIs
+* GraphQL
+
+### DevOps & Cloud
+
+* Docker
+* Linux
+* GitHub Actions
+* Google Cloud Platform (GCP)
+* Vercel
+* Netlify
+* Serverless Architectures
+
+### Currently Exploring
+
+* AI/ML Integrations
+* WebSockets & Real-Time Systems
+* Web3 & Solana Development
+* Distributed Systems
+* Advanced System Design
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 BrandMind Psychometric Profiling System
+
+A full-stack behavioral profiling platform designed to deliver real-time psychometric analysis and intelligent user insights.
+
+### Key Engineering Highlights
+
+* Built with Next.js, TailwindCSS, and scalable backend architecture
+* Integrated the complete ASPECTS psychometric framework
+* Engineered randomized testing flows and dynamic scoring systems
+* Developed analytics-ready automation pipelines for recommendation engines
+* Structured for future GPT-powered interpretation and AI enhancement
+
+---
+
+## 🏢 Ubani - A West African Real Estate Platform *(Stealth Startup)*
+
+A modern property technology ecosystem focused on transforming real estate transactions across West Africa.
+
+ Key Engineering Highlights
+
+* Cross-platform architecture using Next.js, React Native, and Flutter
+* Backend systems powered by Node.js, Express, PostgreSQL, and MongoDB
+* Real-time workflows and scalable cloud-native infrastructure
+* CI/CD pipelines managed with Docker and GitHub Actions
+* Designed for performance, scalability, and multi-platform deployment
 
 
-Tech & Tools
+~~ Berrylin Properties (berrylinpropertie.com)
+*A high-performance web platform tailored for real estate listings and property management.*
+*   **Architecture:** Modern web framework integration focusing on seamless UI/UX and fast page loads.
+*   **Key Engineering:** Developed responsive, cross-device interfaces for property browsing and optimized the frontend for maximum conversion and accessibility.
+*   **Data Pipeline:** Integrated scalable database solutions to handle dynamic real estate inventories.
 
-Frontend / Web: Next.js, React, TailwindCSS, Redux, Chakra UI
-Mobile: React Native, Flutter, Expo
-Backend: Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, GraphQL
-DevOps / Cloud: Docker, Linux, GitHub Actions, Google Cloud Platform, Vercel, Netlify, Serverless
-Learning / Experimenting: AI / Machine Learning, Blockchain, Real-time Systems, Solana Development
+---
 
+# 🏗️ Current Labs & Engineering Focus
 
-Current Focus
+### 🔬 Advanced Full-Stack Architecture
 
-Developing high-quality fullstack web and mobile applications
+Building complex web ecosystems while deepening my understanding of scalable backend systems and microservices.
 
-Contributing to open source projects and developer communities
+### ⚡ AI Tooling & Secure APIs
 
-Experimenting with cloud-native and serverless architectures
+Exploring serverless systems, AI integrations, real-time data streaming, and secure API architecture.
 
-Preparing for international internships and remote opportunities
+### ☁️ Cloud Infrastructure & Distributed Systems
 
-Building AI-powered tools and blockchain-enabled applications
+Researching cloud-native deployment strategies, CI/CD optimization, and scalable infrastructure design.
 
-Featured Projects
+---
 
+# 📈 GitHub Goals
 
-[BrandMind Psychometric Profiling System] – Web app built with Next.js & TailwindCSS for delivering instant psychometric insights and behavioral profiling. Features include:
+* Build production-grade full-stack applications
+* Master computer science fundamentals and system design
+* Contribute to impactful open-source projects
+* Become a top-tier software engineer capable of building globally scalable systems
 
-Full ASPECTS test integration with randomized item blocks and real-time scoring
+---
 
-Three-tiered results display (High, Mid, Low) instantly on the frontend
+# 📫 Connect With Me
 
-Clean, modular UI aligned with BrandMind’s design language
-
-Scalable architecture ready for GPT-based interpretation and future WUSCT modules
-
-Data automation & analytics ready for integration with APIs and recommendation engines
-
-
-[Undisclosed Real Estate Start-Up] – A web and mobile app built with Next.js, React, React Native, and Flutter, aimed at transforming how real estate works in West Africa. Features include:
-
-Smart, intuitive interfaces for seamless user interactions
-
-Real time updates and intelligent workflows
-
-Powerful backend systems supporting dynamic operations
-
-Scalable, cloud ready architecture designed for growth
-
-Technologies used: Next.js, React, React Native, Flutter, Node.js, Express.js, MongoDB, PostgreSQL, TailwindCSS, Docker, GitHub Actions, Vercel, Netlify, Google Cloud
-
-Status: Currently in active development
-
-
-
-Achievements & Highlights
-
-Strong understanding of cloud infrastructure, CI/CD, and serverless architecture
-
-Connect With Me
-
-X: x.com/MelvinXDev
-
-LinkedIn: https://www.linkedin.com/in/melvin-chinedu-70927328a/
-
-Email: melvinlefthanded@gmail.com
+* 💼 LinkedIn: linkedin.com/in/melvin-chinedu-70927328a
+* 🐦 X (Twitter): @MelvinXDev
+* 📧 Email: [melvinlefthanded@gmail.com]
