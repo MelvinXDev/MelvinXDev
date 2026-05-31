@@ -6,10 +6,10 @@ I build scalable, production-ready web applications and digital systems focused 
 
 My interests sit at the intersection of full-stack engineering, AI-powered tooling, cloud infrastructure, and high-performance frontend systems. I enjoy turning complex ideas into fast, functional products that can scale.
 
-* 🎓 B.Sc. in Software Engineering & A.S. in Computer Science.
-* 🚀 Currently building AI-powered tools, real-time systems, and serverless applications.
-* 🌍 Open to remote internships, engineering roles, and contract MVP builds.
-* ⚡ Focused on becoming a world-class software engineer through deep technical foundations and consistent execution.
+* 🎓 B.Sc. in Software Engineering & A.S. in Computer Science
+* 🚀 Currently building AI-powered tools, real-time systems, and serverless applications
+* 🌍 Open to remote internships, engineering roles, and contract MVP builds
+* ⚡ Focused on becoming a world-class software engineer through deep technical foundations and consistent execution
 
 ---
 
